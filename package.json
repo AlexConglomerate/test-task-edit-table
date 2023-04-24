@@ -2,7 +2,7 @@
   "name": "edit-table",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexconglomerate.github.io/edit-table",
+  "homepage": "https://alexconglomerate.github.io/test-task-edit-table",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
